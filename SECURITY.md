@@ -16,4 +16,4 @@ Every push and pull request is scanned via GitHub Actions using **Gitleaks** (`.
 If you believe you have found an inadvertently committed secret, vulnerability, or policy issue in this repository:
 
 1. **Do not** open a public GitHub issue if it exposes a sensitive secret.
-2. Contact **Abdelghani Demmouche** directly via the contact email listed on the [GitHub Profile](https://github.com/abdelghani-demmouche).
+2. Contact **Abdelghani Demmouche** directly via the contact email listed on the [GitHub Profile](https://github.com/boughaniLabo).
