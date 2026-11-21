@@ -1,0 +1,44 @@
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Logs, Artifacts & Captures (Never commit raw sensitive captures)
+*.log
+*.pcap
+*.pcapng
+*.evtx
+*.dmp
+*.raw
+
+# Terraform / Ansible / IaC secrets & states
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.retry
+
+# Archives & Binaries
+*.zip
+*.tar.gz
+*.7z
+*.exe
+*.bin
+*.iso
+*.ova
